@@ -1,0 +1,218 @@
+[
+ {
+  "code": "MAT",
+  "nom_fr": "Matthieu",
+  "ordre": 1,
+  "nb_chapitres": 28,
+  "nb_versets": 1068,
+  "nb_mots": 18329
+ },
+ {
+  "code": "MRK",
+  "nom_fr": "Marc",
+  "ordre": 2,
+  "nb_chapitres": 16,
+  "nb_versets": 673,
+  "nb_mots": 11286
+ },
+ {
+  "code": "LUK",
+  "nom_fr": "Luc",
+  "ordre": 3,
+  "nb_chapitres": 24,
+  "nb_versets": 1149,
+  "nb_mots": 19446
+ },
+ {
+  "code": "JHN",
+  "nom_fr": "Jean",
+  "ordre": 4,
+  "nb_chapitres": 21,
+  "nb_versets": 878,
+  "nb_mots": 15625
+ },
+ {
+  "code": "ACT",
+  "nom_fr": "Actes",
+  "ordre": 5,
+  "nb_chapitres": 28,
+  "nb_versets": 1002,
+  "nb_mots": 18412
+ },
+ {
+  "code": "ROM",
+  "nom_fr": "Romains",
+  "ordre": 6,
+  "nb_chapitres": 16,
+  "nb_versets": 430,
+  "nb_mots": 7055
+ },
+ {
+  "code": "1CO",
+  "nom_fr": "1 Corinthiens",
+  "ordre": 7,
+  "nb_chapitres": 16,
+  "nb_versets": 437,
+  "nb_mots": 6812
+ },
+ {
+  "code": "2CO",
+  "nom_fr": "2 Corinthiens",
+  "ordre": 8,
+  "nb_chapitres": 13,
+  "nb_versets": 256,
+  "nb_mots": 4473
+ },
+ {
+  "code": "GAL",
+  "nom_fr": "Galates",
+  "ordre": 9,
+  "nb_chapitres": 6,
+  "nb_versets": 149,
+  "nb_mots": 2226
+ },
+ {
+  "code": "EPH",
+  "nom_fr": "Éphésiens",
+  "ordre": 10,
+  "nb_chapitres": 6,
+  "nb_versets": 155,
+  "nb_mots": 2416
+ },
+ {
+  "code": "PHP",
+  "nom_fr": "Philippiens",
+  "ordre": 11,
+  "nb_chapitres": 4,
+  "nb_versets": 104,
+  "nb_mots": 1626
+ },
+ {
+  "code": "COL",
+  "nom_fr": "Colossiens",
+  "ordre": 12,
+  "nb_chapitres": 4,
+  "nb_versets": 95,
+  "nb_mots": 1580
+ },
+ {
+  "code": "1TH",
+  "nom_fr": "1 Thessaloniciens",
+  "ordre": 13,
+  "nb_chapitres": 5,
+  "nb_versets": 89,
+  "nb_mots": 1473
+ },
+ {
+  "code": "2TH",
+  "nom_fr": "2 Thessaloniciens",
+  "ordre": 14,
+  "nb_chapitres": 3,
+  "nb_versets": 47,
+  "nb_mots": 820
+ },
+ {
+  "code": "1TI",
+  "nom_fr": "1 Timothée",
+  "ordre": 15,
+  "nb_chapitres": 6,
+  "nb_versets": 113,
+  "nb_mots": 1591
+ },
+ {
+  "code": "2TI",
+  "nom_fr": "2 Timothée",
+  "ordre": 16,
+  "nb_chapitres": 4,
+  "nb_versets": 83,
+  "nb_mots": 1235
+ },
+ {
+  "code": "TIT",
+  "nom_fr": "Tite",
+  "ordre": 17,
+  "nb_chapitres": 3,
+  "nb_versets": 46,
+  "nb_mots": 659
+ },
+ {
+  "code": "PHM",
+  "nom_fr": "Philémon",
+  "ordre": 18,
+  "nb_chapitres": 1,
+  "nb_versets": 25,
+  "nb_mots": 334
+ },
+ {
+  "code": "HEB",
+  "nom_fr": "Hébreux",
+  "ordre": 19,
+  "nb_chapitres": 13,
+  "nb_versets": 303,
+  "nb_mots": 4935
+ },
+ {
+  "code": "JAS",
+  "nom_fr": "Jacques",
+  "ordre": 20,
+  "nb_chapitres": 5,
+  "nb_versets": 108,
+  "nb_mots": 1739
+ },
+ {
+  "code": "1PE",
+  "nom_fr": "1 Pierre",
+  "ordre": 21,
+  "nb_chapitres": 5,
+  "nb_versets": 105,
+  "nb_mots": 1678
+ },
+ {
+  "code": "2PE",
+  "nom_fr": "2 Pierre",
+  "ordre": 22,
+  "nb_chapitres": 3,
+  "nb_versets": 61,
+  "nb_mots": 1098
+ },
+ {
+  "code": "1JN",
+  "nom_fr": "1 Jean",
+  "ordre": 23,
+  "nb_chapitres": 5,
+  "nb_versets": 105,
+  "nb_mots": 2137
+ },
+ {
+  "code": "2JN",
+  "nom_fr": "2 Jean",
+  "ordre": 24,
+  "nb_chapitres": 1,
+  "nb_versets": 13,
+  "nb_mots": 245
+ },
+ {
+  "code": "3JN",
+  "nom_fr": "3 Jean",
+  "ordre": 25,
+  "nb_chapitres": 1,
+  "nb_versets": 15,
+  "nb_mots": 219
+ },
+ {
+  "code": "JUD",
+  "nom_fr": "Jude",
+  "ordre": 26,
+  "nb_chapitres": 1,
+  "nb_versets": 25,
+  "nb_mots": 459
+ },
+ {
+  "code": "REV",
+  "nom_fr": "Apocalypse",
+  "ordre": 27,
+  "nb_chapitres": 22,
+  "nb_versets": 405,
+  "nb_mots": 9833
+ }
+]
